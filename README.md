@@ -1,2 +1,2 @@
-# anngularapi
+# angularapi
 Angular API
